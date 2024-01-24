@@ -1,1 +1,1 @@
-My DSA Practise Section
+My DSA Practice Section
